@@ -13,7 +13,7 @@ A web-based platform for conducting online elections and surveys using Node.js, 
 1. **Get the Code**
    ```bash
    # Clone or download the project to your computer
-   cd C:\Users\arjit\CascadeProjects
+   cd C:\Users\\CascadeProjects
    # You should see the online-election-platform-node folder
    ```
 
